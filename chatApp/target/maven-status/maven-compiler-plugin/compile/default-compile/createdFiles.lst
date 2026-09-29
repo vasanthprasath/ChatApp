@@ -1,0 +1,4 @@
+com\chat\StartChatServlet.class
+com\chat\LoginServlet.class
+com\chat\LogoutServlet.class
+com\chat\ChatEndpoint.class
